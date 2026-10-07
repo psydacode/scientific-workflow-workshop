@@ -1,5 +1,6 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
-
+Adding contact details - P Padmanabhan
+TESTING AS PART OF GITHUB - DSS
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
